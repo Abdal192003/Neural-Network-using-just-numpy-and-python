@@ -1,6 +1,6 @@
   
 
-# Neural Network using just Numpy & Python
+# Neural Network using just Numpy & Python ( From Scratch)
 
   
 
