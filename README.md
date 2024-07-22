@@ -12,6 +12,7 @@ Given-
 - Using the probability normal distribution function to initialise the   weights of input_hidden and output_hidden.
 - Using Sigmoid Activation Function to as it has smooth curve and it is widely implemented.
 - And in neural network learning is done through weights , so to update the weights we have formula.
+  ![1_2wULsk4M4HG12bZ5cB-bPA](https://github.com/user-attachments/assets/96681453-6801-45b9-bc19-6d561f167e2b)
 - And we have training data set of 100 length and testing data set of 10 len. Given epoch-2 so it will train the data twice and while querying we are getting good result .
 - The output_node with the most value gives the correct results as it is giving [0.96681712] value for label (1).
 - Giving an overall accuracy of 70% .
