@@ -16,3 +16,11 @@ Given-
 - And we have training data set of 100 length and testing data set of 10 len. Given epoch-2 so it will train the data twice and while querying we are getting good result .
 - The output_node with the most value gives the correct results as it is giving [0.96681712] value for label (1).
 - Giving an overall accuracy of 70% .
+
+
+
+
+
+![Screenshot 2024-07-22 204339](https://github.com/user-attachments/assets/c9190028-5503-462c-a87d-6e70925b48cd)
+![Screenshot 2024-07-22 204358](https://github.com/user-attachments/assets/9c5f16cc-6528-4669-bc0a-5a39201f1cea)
+![Screenshot 2024-07-22 204408](https://github.com/user-attachments/assets/69d15ad5-2be8-40f0-b935-7c4a75167201)
